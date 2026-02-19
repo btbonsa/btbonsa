@@ -52,12 +52,7 @@
   </a>
 </p>
 ---
-https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=react&hide_border=true&cache_seconds=43200
 
-### 🚀 Featured Projects
-
-- [Awesome Project 1](https://github.com/btbonsa/my-awesome-project) — A real-world example with live demo.
-- [React Native Chat App](https://github.com/btbonsa/react-native-chat) — Full-featured mobile app with notifications.
 
 ## 🤝 Connect with Me
 
