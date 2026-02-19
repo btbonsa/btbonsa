@@ -25,7 +25,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=reactnative,ts,js,nodejs,express,mysql,git,github,react,C#" />
+  <img src="https://skillicons.dev/icons?i=reactnative,ts,js,nodejs,express,mysql,git,github,react,csharp,cplusplus" />
 </p>
 
 ## 🌱 Currently Learning
@@ -58,7 +58,4 @@
     <img src="https://img.shields.io/badge/GitHub-btbonsa-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
-
 ---
-
-> "First, solve the problem. Then, write the code."
