@@ -48,7 +48,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:btbonsa@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-grey?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/bonsa-tujo-640069347">
@@ -58,4 +58,4 @@
     <img src="https://img.shields.io/badge/GitHub-btbonsa-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
----
+
