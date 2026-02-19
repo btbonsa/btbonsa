@@ -40,14 +40,24 @@
 
 ---
 
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=react&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=compact&theme=react&hide_border=true" height="150"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=react&hide_border=true" height="150" alt="Bonsa Tujo's GitHub stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=compact&theme=react&hide_border=true" height="150" alt="Top Languages"/>
+  </a>
 </p>
-
 ---
+https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=react&hide_border=true&cache_seconds=43200
+
+### 🚀 Featured Projects
+
+- [Awesome Project 1](https://github.com/btbonsa/my-awesome-project) — A real-world example with live demo.
+- [React Native Chat App](https://github.com/btbonsa/react-native-chat) — Full-featured mobile app with notifications.
 
 ## 🤝 Connect with Me
 
