@@ -1,82 +1,121 @@
-<!-- Profile banner -->
+<!-- ==================== HEADER ==================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007AFF&center=true&width=435&lines=Hi%2C+I'm+Bonsa!;React+%7C+React+Native+Enthusiast;Building+Beautiful+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bonsa+Tujo;Full-Stack+%26+Mobile+App+Developer;React+%7C+React+Native+%7C+Node.js;Building+Scalable+Modern+Applications" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/btbonsa"><img src="https://img.shields.io/github/followers/btbonsa?label=GitHub&style=social" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-</p>
-
----
-
-<details>
-  <summary><b>🚀 My Main Stacks (click to expand)</b></summary>
-  
-  - <img src="https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white" /> Building high-performance, cleanly architected web apps  
-  - <img src="https://img.shields.io/badge/-React%20Native-%2320232a?logo=react&logoColor=61DAFB" /> Cross-platform mobile apps (iOS & Android)  
-  - <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black" /> / <img src="https://img.shields.io/badge/-TypeScript-%23007acc?logo=typescript&logoColor=white" /> Modern, robust, type-safe development  
-  - <img src="https://img.shields.io/badge/-Redux-%23764ABC?logo=redux&logoColor=white" /> & Context API — Predictable, scalable state management  
-  - UI/UX Enthusiast — Thoughtful user experiences & beautiful interfaces
-</details>
-
-<details>
-  <summary><b>🧠 My Problem-Solving Approach (expand)</b></summary>
-  
-  - Component-driven development  
-  - Testable, scalable codebases  
-  - Continuous learning and adaptation  
-  - Open-source collaboration  
-</details>
-
-<details open>
-  <summary><b>🌱 Currently Exploring</b></summary>
-  
-  - Advanced React & React Native patterns
-  - Performance optimization of large-scale apps
-  - Integrating AI/ML into my projects
-</details>
-
----
-
-## 📈 My GitHub Stats
-
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=btbonsa&label=Profile%20Views&color=0e75b6&style=flat" />
   <a href="https://github.com/btbonsa">
-    <img src="https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=react" height="170" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/btbonsa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=compact&theme=react" height="170" alt="Top Languages" />
+    <img src="https://img.shields.io/github/followers/btbonsa?label=Followers&style=social" />
   </a>
 </p>
 
 ---
 
-## 👋 Let's Connect
-<p>
+# 👨‍💻 About Me
+
+🎓 Computer Science Student  
+📱 Passionate about Web & Mobile Application Development  
+🧠 Logical problem solver & clean architecture enthusiast  
+🚀 Focused on scalable, maintainable, real-world systems  
+
+I enjoy turning complex ideas into structured, efficient, and user-friendly applications.
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nodejs,express,mysql,git,github,linux,vscode" />
+</p>
+
+---
+
+<details>
+  <summary><b>🧠 Development Philosophy</b></summary>
+
+- Component-driven architecture  
+- Clean & reusable code  
+- Scalable backend systems  
+- Structured database design  
+- Continuous learning & improvement  
+
+</details>
+
+---
+
+<details>
+  <summary><b>⚡ Currently Exploring</b></summary>
+
+- Advanced React & React Native patterns  
+- Authentication & security best practices  
+- Performance optimization  
+- AI integration into mobile/web apps  
+
+</details>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=btbonsa&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=btbonsa&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=btbonsa&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=red" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-grey?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/bonsa-tujo-640069347">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/bonsa-tujo-640069347">
+    <img src="https://img.shields.io/badge/LinkedIn-Bonsa%20Tujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-follow-blue?logo=twitter" alt="Twitter" />
+  <a href="https://github.com/btbonsa">
+    <img src="https://img.shields.io/badge/GitHub-btbonsa-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
 ---
 
 <details>
-  <summary>✨ <b>Fun Fact</b> (click to reveal)</summary>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtlYWxsc2J1bXE4NjlkcGE5dHRid2Y1ZTV0N2N4eHJwbnJlM2RjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlvseq9yvZhba/giphy.gif" width="60" align="left" />
-  The original name for Java was “Oak”. 🌳
-</details> 
+  <summary>✨ <b>Fun Developer Fact</b></summary>
+
+💡 The first computer “bug” was literally a moth inside a computer in 1947.
+
+</details>
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+<p align="center">
+  <b>"First, solve the problem. Then, write the code."</b>
+</p>
 
-<!--
-⭐️ From [btbonsa](https://github.com/btbonsa)
--->
+<!-- ⭐ From https://github.com/btbonsa -->
