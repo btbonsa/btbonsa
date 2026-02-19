@@ -22,23 +22,17 @@
 🧠 Focused on clean, maintainable, and scalable code  
 💡 I love solving problems and turning ideas into real apps  
 
----
-
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=reactnative,ts,js,nodejs,express,mysql,git,github,react" />
+  <img src="https://skillicons.dev/icons?i=reactnative,ts,js,nodejs,express,mysql,git,github,react,C#" />
 </p>
----
 
 ## 🌱 Currently Learning
 
 - Advanced React & React Native patterns  
 - Performance optimization  
 - AI integration into web & mobile apps  
-
----
-
 
 ## 📈 GitHub Stats
 
@@ -50,8 +44,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=compact&theme=react&hide_border=true" height="150" alt="Top Languages"/>
   </a>
 </p>
----
-
 
 ## 🤝 Connect with Me
 
