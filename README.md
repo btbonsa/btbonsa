@@ -57,7 +57,7 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=red" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="www.linkedin.com/in/bonsa-tujo-640069347">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/your-twitter-handle">
