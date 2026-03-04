@@ -34,18 +34,7 @@
 - Performance optimization  
 - AI integration into web & mobile apps  
 
-## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=react&hide_border=true)](https://github.com/btbonsa)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=compact&theme=react&hide_border=true)](https://github.com/btbonsa)
-
----
-
-## 🏆 GitHub Achievements
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=btbonsa&theme=darkhub)](https://github.com/btbonsa)
-
----
 
 ## 💻 Code Stats
 
