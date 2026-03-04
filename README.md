@@ -25,7 +25,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=reactnative,ts,js,nodejs,express,mysql,git,github,react,csharp,cplusplus" />
+  <img src="https://skillicons.dev/icons?i=reactnative,ts,js,nodejs,express,mysql,git,github,react,csharp,cplusplus,nextjs,vite" />
 </p>
 
 ## 🌱 Currently Learning
