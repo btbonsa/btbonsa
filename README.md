@@ -25,7 +25,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=reactnative,ts,js,nodejs,express,mysql,git,github,react,csharp,cplusplus,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=vite,nextjs,reactnative,ts,js,nodejs,express,mysql,git,github,react,csharp,cplusplus," />
 </p>
 
 ## 🌱 Currently Learning
@@ -34,16 +34,22 @@
 - Performance optimization  
 - AI integration into web & mobile apps  
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=react&hide_border=true" height="150" alt="Bonsa Tujo's GitHub stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=compact&theme=react&hide_border=true" height="150" alt="Top Languages"/>
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=react&hide_border=true)](https://github.com/btbonsa)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=compact&theme=react&hide_border=true)](https://github.com/btbonsa)
+
+---
+
+## 🏆 GitHub Achievements
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=btbonsa&theme=darkhub)](https://github.com/btbonsa)
+
+---
+
+## 💻 Code Stats
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=btbonsa&theme=react)
 
 ## 🤝 Connect with Me
 
