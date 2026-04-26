@@ -37,14 +37,12 @@
 ```yaml
 name: Bonsa Tujo Derara
 location: Ethiopia 🇪🇹
-education: Computer Science Student
+Education: Computer Science Student
 role: Full-Stack & Mobile Developer
 
 currently_building:
   - Freelance/Job Platform (ETN)
-  - Ethiopian Cinema Streaming App
-  - Pharmacy Management System (Java)
-  - OpenGL Shooting Game (C++ + GLFW)
+  - HRpay mobile app (M-Pesa payment integrated)
 
 passions:
   - Clean Architecture
