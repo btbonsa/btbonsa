@@ -64,9 +64,7 @@ available_for: Freelance & Collaboration
 | Project | Stack | Status |
 |--------|-------|--------|
 | 🌐 **ETN — Freelance & Job Platform** | React · Node.js · MySQL · TypeScript | 🟢 Active |
-| 📱 **Ethiopian Cinema Streaming App** | React Native · Node.js | 🟡 In Progress |
-| 💊 **Pharmacy Management System** | Java · GUI | 🟡 In Progress |
-| 🎮 **OpenGL Shooting Game** | C++ · GLFW · OpenGL | 🟠 Early Stage |
+  📱 **HRpay mobile app (M-Pesa payment integrated)  | React Native · Node.js | 🟢 Active |
 | ☁️ **Cloud Storage Integration** | Cloudinary · REST APIs | 🟢 Active |
 
 </div>
