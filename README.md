@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- ==================== ANIMATED BANNER ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0084ca,100:7c3aed&height=200&section=header&text=Bonsa%20Tujo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
-
 <!-- ==================== TYPING SVG ==================== -->
 <a href="https://github.com/btbonsa">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0084CA&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Bonsa+Tujo+Derara;Full-Stack+%26+Mobile+Developer;React+%2B+React+Native+Enthusiast;Building+Scalable+%26+Real-World+Apps;Turning+Ideas+into+Products+%F0%9F%9A%80" alt="Typing SVG" />
