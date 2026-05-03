@@ -5,25 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bonsa+Tujo+Derara;Full-Stack+%26+Mobile+Developer;React+%2B+React+Native+Specialist;Building+Scalable+%26+Real-World+Applications;Turning+Ideas+into+Products+%F0%9F%9A%80" alt="Professional Typing SVG" />
 </a>
 
-<!-- Enhanced Profile Stats with Better Styling -->
-<p>
-  <a href="https://github.com/btbonsa">
-    <img src="https://komarev.com/ghpvc/?username=btbonsa&label=Profile+Views&color=00D9FF&style=for-the-badge&logo=eye&logoColor=white" alt="profile views" />
-  </a>
-  <a href="https://github.com/btbonsa?tab=followers">
-    <img src="https://img.shields.io/github/followers/btbonsa?label=Followers&style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Mobile-00D9FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Ethiopia%20🇪🇹-4ECDC4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-English%20%7C%20Amharic-FFD93D?style=for-the-badge" />
-</p>
-
-<!-- Animated Welcome Badge -->
-<div>
-  <img src="https://img.shields.io/badge/Status-Active%20%F0%9F%94%A5-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to-Work%20%F0%9F%92%BC-blue?style=for-the-badge&logo=briefcase&logoColor=white" />
-</div>
-
 </div>
 
 ---
