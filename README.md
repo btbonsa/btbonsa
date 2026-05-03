@@ -39,54 +39,8 @@ available: Freelance, Collaboration, Consulting
 
 <div align="center">
 
-<!-- Frontend Technologies -->
-
-### <img src="https://media.giphy.com/media/eNAsjO7t6ZZiU/giphy.gif" width="20"> Frontend Development
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,html,css,sass,redux" />
-</p>
-
-<!-- Mobile Development -->
-
-### <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="20"> Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=reactnative,expo" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
-
-<!-- Backend Technologies -->
-
-### <img src="https://media.giphy.com/media/kdFc8fWgk2d4o/giphy.gif" width="20"> Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,mysql,mongodb,postgresql,redis" />
-</p>
-
-<!-- DevOps & Tools -->
-
-### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="20"> DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,aws,azure,cloudflare" />
-</p>
-
-<!-- Development Tools -->
-
-### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="20"> Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma,webpack,babel,eslint,jest" />
-</p>
-
-<!-- Programming Languages -->
-
-### <img src="https://media.giphy.com/media/3o7WTBJq6x4pN1JdQ0/giphy.gif" width="20"> Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,c,go,rust" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nodejs,express,mongodb,mysql,tailwind,git" />
 </p>
 
 </div>
