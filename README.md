@@ -149,31 +149,19 @@ available_for:
 
 <div align="center">
 
-<!-- Main Snake Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/btbonsa/btbonsa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/btbonsa/btbonsa/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/btbonsa/btbonsa/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<!-- Snake Animation GIF -->
+<img src="https://media.giphy.com/media/paTz7UtwWco5F2UIQI/giphy.gif" width="800" alt="Snake contribution animation" />
 
-<!-- Animated Snake GIF -->
-<div>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100" height="100" alt="Moving Snake" />
-</div>
+<!-- Additional Snake Animation -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100" alt="Moving Snake" />
 
-<!-- Snake Description -->
 <p><strong>🐍 Watch my contributions come to life!</strong></p>
 
-<!-- Status Badges -->
+<!-- Contribution Status -->
 <p>
   <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Coding%20Daily-orange?style=for-the-badge&logo=code&logoColor=white" />
 </p>
-
-<!-- Additional Snake Animation -->
-<div>
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="120" alt="Snake Movement" />
-</div>
 
 </div>
 
