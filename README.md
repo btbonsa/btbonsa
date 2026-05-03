@@ -88,10 +88,9 @@ available_for:
 ### <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="20"> Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=reactnative,expo,flutter" />
+  <img src="https://skillicons.dev/icons?i=reactnative,expo" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 <!-- Backend Technologies -->
@@ -99,7 +98,7 @@ available_for:
 ### <img src="https://media.giphy.com/media/kdFc8fWgk2d4o/giphy.gif" width="20"> Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,mysql,mongodb,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,mysql,mongodb,postgresql,redis" />
 </p>
 
 <!-- DevOps & Tools -->
@@ -179,47 +178,5 @@ available_for:
 <a href="https://github.com/btbonsa">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Professional Wave Animation Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:FF6B6B&height=100&section=footer" />
-
-<!-- Professional Call-to-Action -->
-<div>
-  <h3>🚀 Let's Build Something Amazing Together!</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Available%20for-Freelance%20Projects-00D9FF?style=for-the-badge&logo=briefcase&logoColor=white" />
-    <img src="https://img.shields.io/badge/Open%20to-Collaboration-FF6B6B?style=for-the-badge&logo=handshake&logoColor=white" />
-  </p>
-  <p>
-    <strong>⭐ If you find my work interesting, consider giving it a star!</strong>
-  </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=btbonsa&label=Profile+Views&color=00D9FF&style=for-the-badge&logo=eye&logoColor=white" />
-    <img src="https://img.shields.io/github/followers/btbonsa?label=Followers&style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
-  </p>
-</div>
-
-<!-- Professional Badges -->
-<div>
-  <img src="https://img.shields.io/badge/Built%20with-❤️%20and%20☕-E91E63?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Made%20in-Ethiopia%20🇪🇹-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Powered%20by-React%20%26%20Node.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-</div>
-
-<!-- Final Message -->
-<div>
-  <p>
-    <strong>📧 Email: btbonsa@gmail.com | 🌐 Website: Coming Soon</strong>
-  </p>
-  <p>
-    <em>"Code is poetry written in logic" - Bonsa Tujo Derara</em>
-  </p>
-</div>
 
 </div>
