@@ -35,36 +35,23 @@
 </div>
 
 ```yaml
-# 🚀 Professional Profile
 name: Bonsa Tujo Derara
 title: Full-Stack & Mobile Developer
 location: Ethiopia 🇪🇹
-education: Computer Science Student
-experience: Building Real-World Applications
 
-# 🎯 Core Expertise
 expertise:
-  frontend: ["React", "React Native", "TypeScript", "Next.js"]
-  backend: ["Node.js", "Express", "REST APIs", "GraphQL"]
-  database: ["MongoDB", "MySQL", "PostgreSQL"]
-  tools: ["Git", "Docker", "CI/CD", "Cloud Services"]
+  frontend: React, React Native, TypeScript, Next.js
+  backend: Node.js, Express, REST APIs, GraphQL
+  database: MongoDB, MySQL, PostgreSQL
+  tools: Git, Docker, CI/CD, Cloud Services
 
-# 🔥 Passions & Focus
-passions:
-  - Clean Architecture & Design Patterns
-  - Scalable System Design
-  - Real-World Product Development
-  - UI/UX Excellence & User Experience
+focus:
+  - Clean Architecture
+  - Scalable Systems
+  - Real-World Products
   - Performance Optimization
-  - Code Quality & Best Practices
 
-# 🤝 Available For
-available_for:
-  - Freelance Projects
-  - Technical Collaboration
-  - Code Reviews & Consulting
-  - Open Source Contributions
-  - Mentorship Opportunities
+available: Freelance, Collaboration, Consulting
 ```
 
 <br clear="right"/>
