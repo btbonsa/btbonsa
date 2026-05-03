@@ -116,7 +116,7 @@ available_for: Freelance & Collaboration
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/btbonsa/btbonsa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/btbonsa/btbonsa/blob/main/.github/workflows/snake.svg" alt="Snake animation" />
 </div>
 
 ---
