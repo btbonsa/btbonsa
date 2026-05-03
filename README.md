@@ -42,17 +42,6 @@ location: Ethiopia 🇪🇹
 education: Computer Science Student
 experience: Building Real-World Applications
 
-# 💼 Current Projects
-currently_building:
-  - name: "ETN"
-    type: "Freelance & Job Platform"
-    tech: ["React", "Node.js", "MongoDB"]
-    status: "In Development"
-  - name: "HRpay"
-    type: "Mobile App (M-Pesa integrated)"
-    tech: ["React Native", "Expo", "Firebase"]
-    status: "Beta Testing"
-
 # 🎯 Core Expertise
 expertise:
   frontend: ["React", "React Native", "TypeScript", "Next.js"]
@@ -141,62 +130,6 @@ available_for:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- Working GitHub Stats Badges -->
-<p>
-  <img src="https://img.shields.io/github/followers/btbonsa?style=for-the-badge&color=00D9FF&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/btbonsa?style=for-the-badge&color=FF6B6B&logo=star&logoColor=white" alt="Stars" />
-  <img src="https://img.shields.io/github/repositories/btbonsa?style=for-the-badge&color=4CAF50&logo=github&logoColor=white" alt="Repositories" />
-  <img src="https://img.shields.io/github/commit-activity/m/btbonsa?style=for-the-badge&color=FF9800&logo=git&logoColor=white" alt="Commit Activity" />
-</p>
-
-<!-- Profile Views -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=btbonsa&label=Profile+Views&color=00D9FF&style=for-the-badge&logo=eye&logoColor=white" />
-  <img src="https://img.shields.io/github/last-commit/btbonsa/btbonsa?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" alt="Last Commit" />
-</p>
-
-<!-- Language Stats with Badges -->
-<div>
-  <p><strong>🔥 Top Programming Languages:</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </p>
-</div>
-
-<!-- GitHub Streak (Working Service) -->
-<div>
-  <img src="https://streak-stats.demolab.com/?user=btbonsa&theme=dark&hide_border=true&background=000000&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" width="100%" />
-</div>
-
-<!-- Simple Stats Display -->
-<div>
-  <p><strong>📈 GitHub Statistics:</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/Total%20Commits-1000+-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Total%20Stars-50+-yellow?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Total%20Forks-20+-green?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Active%20Days-365+-red?style=for-the-badge" />
-  </p>
-</div>
-
-<!-- Activity Graph Alternative -->
-<div>
-  <p><strong>📊 Contribution Activity:</strong></p>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=btbonsa&theme=react-dark&hide_border=true&bg_color=000000&color=00D9FF&line=FF6B6B&point=FFFFFF" alt="Activity Graph" width="100%" />
-</div>
-
-</div>
-
----
-
 ## 🌱 Learning Focus
 
 <div align="center">
@@ -233,67 +166,19 @@ available_for:
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
-<!-- Professional Contact Links -->
-<p>
-  <a href="mailto:btbonsa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/bonsa-tujo-640069347">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/btbonsa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
-  </a>
-  <a href="https://t.me/btbonsa">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20" alt="Telegram" />
-  </a>
-</p>
-
-<!-- Social Media Links -->
-<p>
-  <a href="https://twitter.com/btbonsa">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/btbonsa">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/btbonsa">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=20" alt="Discord" />
-  </a>
-  <a href="https://stackoverflow.com/users/btbonsa">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&logoWidth=20" alt="Stack Overflow" />
-  </a>
-</p>
-
-<!-- Professional Platforms -->
-<p>
-  <a href="https://dev.to/btbonsa">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&logoWidth=20" alt="Dev.to" />
-  </a>
-  <a href="https://medium.com/@btbonsa">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&logoWidth=20" alt="Medium" />
-  </a>
-  <a href="https://codepen.io/btbonsa">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&logoWidth=20" alt="Codepen" />
-  </a>
-  <a href="https://dribbble.com/btbonsa">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&logoWidth=20" alt="Dribbble" />
-  </a>
-</p>
-
-<!-- Portfolio Links -->
-<p>
-  <a href="https://btbonsa.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=20" alt="Portfolio" />
-  </a>
-  <a href="https://resume.btbonsa.com">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=resume&logoColor=white&logoWidth=20" alt="Resume" />
-  </a>
-</p>
+<a href="mailto:btbonsa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/bonsa-tujo-640069347">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/btbonsa">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -302,7 +187,7 @@ available_for:
 <div align="center">
 
 <!-- Professional Wave Animation Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:FF6B6B&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=40&fontColor=FFFFFF&animation=twinkle" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:FF6B6B&height=100&section=footer" />
 
 <!-- Professional Call-to-Action -->
 <div>
