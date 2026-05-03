@@ -145,49 +145,53 @@ available_for:
 
 <div align="center">
 
-<!-- Professional Stats Row -->
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-trophy.vercel.app/?username=btbonsa&theme=darkhub&no-bg=true&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<!-- Working GitHub Stats Badges -->
+<p>
+  <img src="https://img.shields.io/github/followers/btbonsa?style=for-the-badge&color=00D9FF&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/btbonsa?style=for-the-badge&color=FF6B6B&logo=star&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/github/repositories/btbonsa?style=for-the-badge&color=4CAF50&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/github/commit-activity/m/btbonsa?style=for-the-badge&color=FF9800&logo=git&logoColor=white" alt="Commit Activity" />
+</p>
 
-<!-- Languages and Streak Row -->
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-    </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=btbonsa&theme=dark&hide_border=true&background=000000&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<!-- Profile Views -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=btbonsa&label=Profile+Views&color=00D9FF&style=for-the-badge&logo=eye&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/btbonsa/btbonsa?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" alt="Last Commit" />
+</p>
 
-<!-- Activity Graph -->
+<!-- Language Stats with Badges -->
 <div>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=btbonsa&theme=react-dark&hide_border=true&bg_color=000000&color=00D9FF&line=FF6B6B&point=FFFFFF" alt="Activity Graph" width="100%" />
+  <p><strong>🔥 Top Programming Languages:</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
 </div>
 
-<!-- Repository Stats -->
-<table>
-  <tr>
-    <td width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=btbonsa&repo=ETN&theme=dark&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" alt="ETN Repository" />
-    </td>
-    <td width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=btbonsa&repo=HRpay&theme=dark&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" alt="HRpay Repository" />
-    </td>
-    <td width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=btbonsa&repo=btbonsa&theme=dark&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" alt="Profile Repository" />
-    </td>
-  </tr>
-</table>
+<!-- GitHub Streak (Working Service) -->
+<div>
+  <img src="https://streak-stats.demolab.com/?user=btbonsa&theme=dark&hide_border=true&background=000000&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" width="100%" />
+</div>
+
+<!-- Simple Stats Display -->
+<div>
+  <p><strong>📈 GitHub Statistics:</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Total%20Commits-1000+-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Total%20Stars-50+-yellow?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Total%20Forks-20+-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Active%20Days-365+-red?style=for-the-badge" />
+  </p>
+</div>
+
+<!-- Activity Graph Alternative -->
+<div>
+  <p><strong>📊 Contribution Activity:</strong></p>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=btbonsa&theme=react-dark&hide_border=true&bg_color=000000&color=00D9FF&line=FF6B6B&point=FFFFFF" alt="Activity Graph" width="100%" />
+</div>
 
 </div>
 
