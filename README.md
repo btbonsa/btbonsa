@@ -149,19 +149,46 @@ available_for:
 
 <div align="center">
 
-<!-- Animated Snake with Professional Styling -->
+<!-- Enhanced Snake Animation with Better Effects -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/btbonsa/btbonsa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/btbonsa/btbonsa/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/btbonsa/btbonsa/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/btbonsa/btbonsa/output/github-contribution-grid-snake-dark.svg" width="100%" style="animation: fadeIn 2s ease-in-out;" />
 </picture>
 
-<!-- Snake Animation Only -->
+<!-- Animated Snake GIF Overlay -->
+<div style="position: relative; margin-top: -50px; margin-bottom: 20px;">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" height="80" style="border-radius: 50%; border: 3px solid #00D9FF; animation: bounce 2s infinite;" alt="Moving Snake" />
+</div>
+
+<!-- Enhanced Snake Description -->
 <div>
   <p><strong>🐍 Watch my contributions come to life!</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Coding%20Daily-orange?style=for-the-badge&logo=code&logoColor=white" />
+  </p>
+</div>
+
+<!-- Additional Snake Animation -->
+<div>
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100" alt="Snake Movement" style="border-radius: 10px; margin-top: 10px;" />
 </div>
 
 </div>
+
+<!-- CSS Animations -->
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-20px); }
+  60% { transform: translateY(-10px); }
+}
+</style>
 
 ---
 
