@@ -149,10 +149,10 @@ available_for:
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-profile-trophy.vercel.app/?username=btbonsa&theme=dracula&no-bg=true&no-frame=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=btbonsa&theme=darkhub&no-bg=true&no-frame=true&margin-w=4" alt="GitHub Trophies" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -161,23 +161,33 @@ available_for:
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=donut-vertical&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
     </td>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=btbonsa&theme=neon&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=btbonsa&theme=dark&hide_border=true&background=000000&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <!-- Activity Graph -->
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=btbonsa&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&area_color=0D1117" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=btbonsa&theme=react-dark&hide_border=true&bg_color=000000&color=00D9FF&line=FF6B6B&point=FFFFFF" alt="Activity Graph" width="100%" />
 </div>
 
-<!-- Additional Stats -->
-<div>
-  <img src="https://github-contributor-stats.vercel.app/api?username=btbonsa&limit=10&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Contributor Stats" width="100%" />
-</div>
+<!-- Repository Stats -->
+<table>
+  <tr>
+    <td width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=btbonsa&repo=ETN&theme=dark&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" alt="ETN Repository" />
+    </td>
+    <td width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=btbonsa&repo=HRpay&theme=dark&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" alt="HRpay Repository" />
+    </td>
+    <td width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=btbonsa&repo=btbonsa&theme=dark&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" alt="Profile Repository" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -210,21 +220,9 @@ available_for:
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/btbonsa/btbonsa/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-<!-- Professional Stats Cards -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=btbonsa&repo=ETN&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" alt="ETN Repository" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=btbonsa&repo=HRpay&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" alt="HRpay Repository" />
-    </td>
-  </tr>
-</table>
-
-<!-- Contribution Summary -->
+<!-- Snake Animation Only -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=btbonsa&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Coding Time Stats" width="100%" />
+  <p><strong>🐍 Watch my contributions come to life!</strong></p>
 </div>
 
 </div>
