@@ -49,20 +49,6 @@ available_for: Freelance & Collaboration
 
 ---
 
-## 🔥 Current Projects
-
-<div align="center">
-
-| Project                         | Stack                        | Status    |
-| ------------------------------- | ---------------------------- | --------- |
-| 🌐 **ETN — Freelance Platform** | React · Node.js · MySQL · TS | 🟢 Active |
-| 📱 **HRpay — Mobile App**       | React Native · Node.js       | 🟢 Active |
-| ☁️ **Cloud Storage**            | Cloudinary · REST APIs       | 🟢 Active |
-
-</div>
-
----
-
 ## � Tech Stack
 
 <div align="center">
@@ -107,23 +93,6 @@ available_for: Freelance & Collaboration
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0084ca&text_color=c9d1d9&langs_count=8" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=btbonsa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0084ca&line=7c3aed&point=ffffff" />
-</div>
-
----
-
-## 💪 Skills Proficiency
-
-<div align="center">
-
-| Technology              | Level                    |
-| ----------------------- | ------------------------ |
-| React / TypeScript      | ████████████████████ 95% |
-| Node.js / Express       | ██████████████████░░ 88% |
-| React Native            | █████████████████░░░ 85% |
-| MySQL / Database Design | ████████████████░░░░ 80% |
-| UI/UX Design            | ███████████████░░░░░ 75% |
-| C++ / Java              | ████████████░░░░░░░░ 65% |
-
 </div>
 
 ---
