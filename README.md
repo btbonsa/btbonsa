@@ -51,13 +51,29 @@ available: Freelance, Collaboration, Consulting
 
 <div align="center">
 
-```
-🔷 Advanced React & React Native Architecture
-🔷 Backend System Design & Scalability
-🔷 Performance Optimization Techniques
-🔷 AI/ML Integration in Applications
-🔷 Cloud Infrastructure & DevOps
-```
+### <img src="https://media.giphy.com/media/3o7WTBJq6x4pN1JdQ0/giphy.gif" width="20"> Currently Exploring
+
+<div>
+  <img src="https://img.shields.io/badge/Advanced%20React%20Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/System%20Design-339933?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance%20Optimization-FF6B6B?style=for-the-badge&logo=speed&logoColor=white" />
+</div>
+
+### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="20"> Next Goals
+
+<div>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Integration-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20DevOps-0077B5?style=for-the-badge&logo=aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices%20Architecture-9C27B0?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+### <img src="https://media.giphy.com/media/kdFc8fWgk2d4o/giphy.gif" width="20"> Skill Development
+
+<div>
+  <img src="https://img.shields.io/badge/TypeScript%20Mastery-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL%20APIs-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing%20Strategies-4CAF50?style=for-the-badge&logo=jest&logoColor=white" />
+</div>
 
 </div>
 
