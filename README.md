@@ -86,13 +86,13 @@ available_for: Freelance & Collaboration
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0084ca&icon_color=7c3aed&text_color=c9d1d9&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=btbonsa&theme=tokyonight&hide_border=true&background=0d1117&ring=0084ca&fire=7c3aed&currStreakLabel=0084ca" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=btbonsa&theme=darkhub&no-bg=true&no-frame=true&margin-w=4" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=0084ca&icon_color=7c3aed&text_color=ffffff&count_private=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0084ca&text_color=c9d1d9&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=btbonsa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0084ca&line=7c3aed&point=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=0084ca&text_color=ffffff&langs_count=8" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=btbonsa&theme=dark&hide_border=true&background=000000&ring=0084ca&fire=7c3aed&currStreakLabel=0084ca" />
 </div>
 
 ---
