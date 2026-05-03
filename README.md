@@ -145,28 +145,6 @@ available_for:
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<!-- Snake Animation GIF -->
-<img src="https://media.giphy.com/media/paTz7UtwWco5F2UIQI/giphy.gif" width="800" alt="Snake contribution animation" />
-
-<!-- Additional Snake Animation -->
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100" alt="Moving Snake" />
-
-<p><strong>🐍 Watch my contributions come to life!</strong></p>
-
-<!-- Contribution Status -->
-<p>
-  <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Coding%20Daily-orange?style=for-the-badge&logo=code&logoColor=white" />
-</p>
-
-</div>
-
----
-
 ## 🤝 Connect
 
 <div align="center">
