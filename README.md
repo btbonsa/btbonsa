@@ -11,10 +11,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Professional Coding Animation" />
-</div>
-
 ```yaml
 name: Bonsa Tujo Derara
 title: Full-Stack & Mobile Developer
