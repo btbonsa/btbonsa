@@ -76,7 +76,6 @@ available: Freelance, Collaboration, Consulting
 
 </div>
 
----
 
 ## 🤝 Connect
 
