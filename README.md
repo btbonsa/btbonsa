@@ -10,7 +10,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-```yaml
 name: Bonsa Tujo Derara
 title: Full-Stack & Mobile Developer
 location: Ethiopia 🇪🇹
@@ -45,17 +44,17 @@ available: Freelance, Collaboration, Consulting
 
 ### Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=reactnative,flutter,dart,androidstudio,figma,expo" />
 </p>
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql,postgres,redis,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql,postgres,redis,prisma,firebase,supabase" />
 </p>
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,nginx" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,nginx,githubactions,vercel" />
 </p>
 
 </div>
@@ -92,6 +91,22 @@ available: Freelance, Collaboration, Consulting
 
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=btbonsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btbonsa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=btbonsa&theme=tokyonight&hide_border=true" />
+</div>
+
+---
 
 ## 🤝 Connect
 
