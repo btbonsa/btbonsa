@@ -24,3 +24,6 @@ focus:
   - Performance Optimization
 
 available: Freelance, Collaboration, Consulting
+<br clear="right"/>
+
+
