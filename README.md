@@ -7,6 +7,9 @@
 </div>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+<br clear="right"/>
+
 name: Bonsa Tujo Derara
 title: Full-Stack & Mobile Developer
 location: Ethiopia 🇪🇹
@@ -24,6 +27,5 @@ focus:
   - Performance Optimization
 
 available: Freelance, Collaboration, Consulting
-<br clear="right"/>
 
 
