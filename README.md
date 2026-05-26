@@ -10,7 +10,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-```yaml
 name: Bonsa Tujo Derara
 title: Full-Stack & Mobile Developer
 location: Ethiopia 🇪🇹
@@ -33,7 +32,6 @@ available:
   - Consulting
 
 
-🛠️ Tech Stack
 <div align="center">
 Frontend
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,redux,vite" /> </p>
