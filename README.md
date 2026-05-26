@@ -28,7 +28,7 @@ focus:
   - Performance Optimization
 
 available: Freelance, Collaboration, Consulting
-```
+` ` `
 
 <br clear="right"/>
 
@@ -38,8 +38,24 @@ available: Freelance, Collaboration, Consulting
 
 <div align="center">
 
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nodejs,express,mongodb,mysql,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,redux,vite" />
+</p>
+
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,figma" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql,postgres,redis,prisma" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,nginx" />
 </p>
 
 </div>
