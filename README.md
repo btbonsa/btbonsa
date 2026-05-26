@@ -6,7 +6,7 @@
 
 </div>
 
----
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
@@ -31,3 +31,15 @@ available:
   - Freelance
   - Collaboration
   - Consulting
+
+
+🛠️ Tech Stack
+<div align="center">
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,redux,vite" /> </p>
+Mobile
+<p> <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,figma" /> </p>
+Backend & Database
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql,postgres,redis,prisma" /> </p>
+DevOps & Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,nginx" /> </p> </div>
