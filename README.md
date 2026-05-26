@@ -1,12 +1,13 @@
 <div align="center">
 
 <a href="https://github.com/btbonsa">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Bonsa+Tujo+Derara;Full-Stack+%26+Mobile+Developer;React+%2B+React+Native+Specialist;Building+Scalable+%26+Real-World+Applications;Turning+Ideas+into+Products+🚀" alt="Professional Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+I%27m+Bonsa+Tujo+Derara;Full-Stack+and+Mobile+Developer;React+and+React+Native+Specialist;Building+Scalable+Applications;Turning+Ideas+into+Products" 
+    alt="Professional Typing SVG." 
+  />
 </a>
 
 </div>
-
----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
