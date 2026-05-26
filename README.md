@@ -7,3 +7,20 @@
 </div>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+name: Bonsa Tujo Derara
+title: Full-Stack & Mobile Developer
+location: Ethiopia 🇪🇹
+
+expertise:
+  frontend: React, React Native, TypeScript, Next.js
+  backend: Node.js, Express, REST APIs, GraphQL
+  database: MongoDB, MySQL, PostgreSQL
+  tools: Git, Docker, CI/CD, Cloud Services
+
+focus:
+  - Clean Architecture
+  - Scalable Systems
+  - Real-World Products
+  - Performance Optimization
+
+available: Freelance, Collaboration, Consulting
