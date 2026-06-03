@@ -85,7 +85,6 @@ available:
 <div>
   <img src="https://img.shields.io/badge/AI%20%26%20ML%20Integration-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud%20DevOps-0077B5?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices%20Architecture-9C27B0?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 <br>
