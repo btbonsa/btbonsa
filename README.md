@@ -49,17 +49,17 @@ available:
 
 ### Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=react,figma" />
 </p>
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql,postgres,redis,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" />
 </p>
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,nginx" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman" />
 </p>
 
 </div>
