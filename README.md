@@ -66,28 +66,12 @@ available:
 
 ---
 
-## 🌱 Learning Focus
 
-<div align="center">
 
-### <img src="https://media.giphy.com/media/3o7WTBJq6x4pN1JdQ0/giphy.gif" width="20"> Currently Exploring
 
-<div>
-  <img src="https://img.shields.io/badge/Advanced%20React%20Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/System%20Design-339933?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance%20Optimization-FF6B6B?style=for-the-badge" />
-</div>
 
-<br>
 
-### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="20"> Next Goals
 
-<div>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Integration-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20DevOps-0077B5?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</div>
-
-<br>
 
 
 
