@@ -1,49 +1,37 @@
-<div align="center">
+ <div align="center">
 
-<a href="https://github.com/btbonsa">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+I%27m+Bonsa+Tujo+Derara;Full-Stack+and+Mobile+Developer;React+and+React+Native+Specialist;Building+Scalable+Applications;Turning+Ideas+into+Products" 
-    alt="Professional Typing SVG." 
-  />
-</a>
+# Hi, I'm Bonsa Tujo Derara 👋
 
+**Full-Stack & Mobile Developer**
 
-name: Bonsa Tujo Derara
-title: Full-Stack & Mobile Developer
-location: Ethiopia 🇪🇹
+Building modern, scalable applications that solve real-world problems.
 
-expertise:
-  frontend: React, React Native, TypeScript, Next.js
-  backend: Node.js, Express, REST APIs, GraphQL
-  database: MongoDB, MySQL, PostgreSQL
-  tools: Git, Docker, CI/CD, Cloud Services
+🇪🇹 Ethiopia
 
-focus:
-  - Clean Architecture
-  - Scalable Systems
-  - Real-World Products
-  - Performance Optimization
+</div>
 
-available:
-  - Freelance
-  - Collaboration
-  - Consulting
+---
 
+### 🛠️ Tech Stack
 
-## 🤝 Connect
+- **Frontend:** React, React Native, Next.js, TypeScript
+- **Backend:** Node.js, Express.js, REST APIs, GraphQL
+- **Database:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, GitHub, Docker, CI/CD
+
+### 🎯 What I Focus On
+
+- Clean and maintainable code
+- Scalable application development
+- Performance and user experience
+- Turning ideas into practical solutions
+
+### 🤝 Let's Connect
 
 <div align="center">
 
-<a href="mailto:btbonsa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/bonsa-tujo-640069347">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/btbonsa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="mailto:btbonsa@gmail.com">Email</a> ·
+<a href="https://www.linkedin.com/in/bonsa-tujo-640069347">LinkedIn</a> ·
+<a href="https://github.com/btbonsa">GitHub</a>
 
 </div>
