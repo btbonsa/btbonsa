@@ -28,25 +28,7 @@ available:
   - Freelance
   - Collaboration
   - Consulting
-```
 
-<br clear="right"/>
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 
 ## 🤝 Connect
 
