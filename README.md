@@ -89,15 +89,8 @@ available:
 
 <br>
 
-### <img src="https://media.giphy.com/media/kdFc8fWgk2d4o/giphy.gif" width="20"> Skill Development
 
-<div>
-  <img src="https://img.shields.io/badge/TypeScript%20Mastery-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL%20APIs-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing%20Strategies-4CAF50?style=for-the-badge&logo=jest&logoColor=white" />
-</div>
 
-</div>
 
 ---
 
